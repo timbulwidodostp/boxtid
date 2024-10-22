@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'boxtid': Box-Tidwell and exponential regression models Use boxtid With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f boxtid.ado
+f boxtid.sthlp
+f xfrac_154.ado
+f xfrac_adj.ado
+f xfrac_chk.ado
+f xfrac_dis.ado
+f xfracplot.ado
+f xfracpred.ado
