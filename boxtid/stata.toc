@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p boxtid Box-Tidwell and exponential regression models Use boxtid With STATA 18
